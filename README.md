@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✍️ Handwritten Digit Recognition using Deep Learning 🔢
+  ✍️ Handwritten Digit Recognition using <br> Deep Learning 🔢
 </h1>
 
 A clean and efficient deep learning model to **recognize handwritten digits (0–9)** using the **MNIST dataset**. This project demonstrates how machine learning can accurately classify image-based data using a well-structured pipeline built with **TensorFlow/Keras**.
